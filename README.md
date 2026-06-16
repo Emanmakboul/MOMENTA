@@ -84,8 +84,8 @@ Premium features such as virtual consultations and customized health plans
 
 ## Project Plan (5 Weeks)
 
-###  Week 1 — [Title]
-- [Task]  
+###  Week 1 — [Strategy Processes]
+- [[Task](https://www.figma.com/design/5AXRK7pGEeGw9itg2obbro/GP_G674_P2?node-id=0-1&t=jBCjoTfS09BjcEDx-1)]  
 
 
 ### Week 2 — [Title]
