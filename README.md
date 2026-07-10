@@ -88,17 +88,19 @@ Premium features such as virtual consultations and customized health plans
 - [[Strategy Processes](https://www.figma.com/design/5AXRK7pGEeGw9itg2obbro/GP_G674_P2?node-id=0-1&t=jBCjoTfS09BjcEDx-1)]  
 
 
-### Week 2 — [Title]
-- [Task]  
+### Week 2 — [Scope processes]
+- [[Scope processes ](https://www.figma.com/design/5AXRK7pGEeGw9itg2obbro/GP_G674_P2?node-id=1-2)]  
+  
+
+### Week 2 — [Structure processes]
+- [[Structure processes ](https://www.figma.com/design/5AXRK7pGEeGw9itg2obbro/GP_G674_P2?node-id=1-2)]  
+  
+
+### Week 4 — [skeleton processes]
+- [[Skeleton processes ](https://www.figma.com/design/5AXRK7pGEeGw9itg2obbro/GP_G674_P2?node-id=1-3)]  
 
 
-### Week 3 — [Title]
-- [Task]  
+### Week 5 — [Surface processes]
+- [[Surface processes ](https://www.figma.com/design/5AXRK7pGEeGw9itg2obbro/GP_G674_P2?node-id=1-4)]    
 
 
-### Week 4 — [Title]
-- [Task]  
-
-
-### Week 5 — [Title]
-- [Task]  
